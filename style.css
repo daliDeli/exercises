@@ -2,3 +2,7 @@ header{
     color: red;
     margin: 2px;
 }
+footer{
+    background: blue;
+    font-family: monospace;
+}
